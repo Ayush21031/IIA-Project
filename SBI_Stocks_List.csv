@@ -1,0 +1,51 @@
+StockCode,StockName,Sector,Exchange,SBI_StockID
+WTBV,Cherian Group,Utilities,BSE,1
+GSXR,Wadhwa-Bhatnagar,Consumer Goods,BSE,2
+ADRJ,Lanka-Lalla,Finance,BSE,3
+DMTV,Sehgal-Sen,Healthcare,BSE,4
+IHDV,Rege-Sahni,Industrials,BSE,5
+JQJP,Chaudry-Dixit,Utilities,BSE,6
+RTVE,"Wali, Saini and Bahl",Healthcare,BSE,7
+NNVN,Goswami-Ratta,Consumer Goods,BSE,8
+XGHX,"Vora, Mital and Banik",Consumer Goods,NSE,9
+UFGR,"Naik, Arora and Balan",Technology,NSE,10
+PWZY,Kota LLC,Industrials,NSE,11
+YEEZ,Borde and Sons,Finance,BSE,12
+AZAP,Kalita Ltd,Healthcare,BSE,13
+ZGVT,"Grewal, Pal and Mallick",Industrials,BSE,14
+CLCA,Chauhan-Tak,Healthcare,NSE,15
+PHTW,"Dora, Sandal and Amble",Energy,NSE,16
+IUMD,Goda-Sridhar,Consumer Goods,BSE,17
+PYWX,Amble-Acharya,Technology,BSE,18
+XAQY,Kade-Vora,Consumer Goods,NSE,19
+KIXY,"Goda, Ramaswamy and Som",Consumer Goods,NSE,20
+SIDZ,"Swaminathan, Jain and Kapoor",Utilities,BSE,21
+MMXH,Subramanian-Patil,Utilities,NSE,22
+LTXN,"Sankar, Verma and Merchant",Consumer Goods,BSE,23
+PKEY,Krishnamurthy-Mander,Industrials,NSE,24
+RVUC,Chandra-Batta,Industrials,NSE,25
+VTMR,Loyal Group,Technology,BSE,26
+GUQN,"Ramaswamy, Handa and Bhandari",Consumer Goods,NSE,27
+APZY,Vora-Bains,Technology,BSE,28
+KZXI,"Nair, Taneja and Koshy",Industrials,NSE,29
+CKPZ,Wason-Narayanan,Technology,NSE,30
+KXAP,"Bhatia, Bandi and Kapadia",Energy,NSE,31
+OSKX,Rout-Taneja,Industrials,NSE,32
+TLOO,"Malhotra, Mandal and Chahal",Healthcare,NSE,33
+PECM,Kumer Inc,Finance,BSE,34
+FRWW,Khalsa PLC,Consumer Goods,NSE,35
+WQED,"Naik, Karpe and Gala",Industrials,NSE,36
+YCIT,Sachar-Dani,Finance,NSE,37
+ITCF,Batta-Chander,Energy,BSE,38
+RMNC,Dash Inc,Energy,BSE,39
+UOON,Sundaram-Raju,Healthcare,NSE,40
+QVND,Nagarajan Group,Technology,NSE,41
+EJOR,Walia Ltd,Consumer Goods,BSE,42
+OJRS,More LLC,Energy,BSE,43
+TXMI,"Khare, Gara and Rajan",Industrials,NSE,44
+SUJU,"Minhas, Loyal and Chawla",Technology,NSE,45
+OMJT,Vig-Pai,Healthcare,NSE,46
+NCBJ,Lalla LLC,Finance,NSE,47
+IMTW,Sankar Ltd,Energy,NSE,48
+VURM,Chanda-Agate,Utilities,BSE,49
+RWUE,"Sridhar, Bal and Kohli",Technology,BSE,50

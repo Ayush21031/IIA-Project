@@ -1,0 +1,44 @@
+Tata_ClientID,InvestorName,EmailAddress,PhoneNumber,PAN,ResidentialAddress,DOB,JoinDate
+1,SG Buch,fbajwa@example.net,02244831560,ST587148H,"H.No. 868, Vig Road, Thrissur-947751",1965-12-17,2023-12-11
+2,VG Gupta,aoza@example.net,+917816495598,YK304135V,"69/14, Kant Zila, Barasat 620870",1984-06-24,2017-07-22
+3,MR Lad,ridhi24@example.net,+919935538952,YR579230K,"59/924, Sachdeva Marg, Mumbai 523376",1992-03-24,2024-10-11
+4,II Dubey,viswanathanfalan@example.com,+915778247463,JU400034X,"82, Contractor Road, Mathura 428146",2000-09-30,2020-10-25
+5,NB Shukla,adwetaborde@example.com,09655678635,BC670172M,"751, Baral Nagar, Rohtak-899331",1996-09-20,2024-09-14
+6,CU Chand,udyati87@example.net,0499137114,SJ214189Y,"71/738, Mammen Marg, Jamshedpur-004689",1992-03-15,2023-10-30
+7,SC Dhar,miteshdeep@example.com,5484080082,EZ709305A,"52/32, Palla Chowk, Purnia-633739",1992-03-16,2017-03-28
+8,LB Kaur,gchana@example.org,+919842167107,NT125023N,"H.No. 639, Kant Marg, Nellore 919155",1980-05-10,2022-11-19
+9,EA Balakrishnan,sonifalak@example.com,+915548329090,HW803513M,"37, Bose, Karaikudi 023732",2001-01-30,2021-11-02
+10,YL Saran,dakshasunder@example.com,0438748618,QI444064H,"H.No. 26, Sem Zila, Hospet-327166",1962-05-22,2019-11-29
+11,RI Narang,udant24@example.net,7681987116,MW140704Z,"H.No. 05, Dass Marg, Vellore-926480",1954-12-23,2020-03-01
+12,KV Batra,naksh80@example.com,07506518954,ZL808625F,"52/780, Butala Circle, Delhi-169597",1966-09-28,2022-01-06
+13,MM Bala,ridhigandhi@example.org,9419745480,DK666179K,"35, Deo Street, Pudukkottai-206967",1949-01-27,2018-06-02
+14,PL Gara,sara58@example.com,+913400389508,IF232308W,"39/981, Ganguly Road, Guwahati 015751",1989-11-21,2022-10-01
+15,MN Chanda,bhatvasana@example.net,00067612456,XZ473142G,"51/14, Sami, Arrah-234375",1963-02-21,2021-07-13
+16,ES Sama,paninisibal@example.net,+913524625758,HG881817C,"23, Mander Chowk, Shivpuri 813481",1947-11-27,2022-01-24
+17,AT Raja,sharmatanay@example.org,01912150771,FC685394J,"88/058, Atwal Circle, Shimla 452519",1982-01-30,2023-10-29
+18,BA Raval,quincykanda@example.net,5346228581,MP670285J,"688, Chauhan Chowk, Chandigarh-103674",1971-12-16,2021-06-06
+19,MA Bose,zarna25@example.com,01032809701,GZ293300E,"45, Rai Path, Adoni-849336",1958-08-13,2020-10-07
+20,YK Contractor,ranawriddhish@example.net,00362540353,WE505259F,"069, Bir Zila, Buxar 576959",1975-08-27,2024-05-10
+21,HV Thakkar,rachanasarma@example.org,4817551359,PK065580E,"26/49, Kala Chowk, Malda 975956",1982-07-14,2022-02-17
+22,CM Madan,tellabina@example.net,4214483377,LB312623W,"31/574, Yohannan Path, Bellary-861261",1984-01-15,2022-12-27
+23,ZL Sharma,waliahritik@example.net,+914625306736,VE264832Q,"72/03, Khosla Ganj, Khora -618383",1958-10-04,2023-08-19
+24,GR Chaudhry,ksidhu@example.org,+919902169835,HO829389N,"41/917, Chakrabarti Path, Bhavnagar-307428",2001-05-13,2023-11-11
+25,MJ Trivedi,meerakibe@example.net,09466164866,SH551533S,"H.No. 79, Peri Zila, Salem-380091",1975-07-30,2019-09-04
+26,TA Garg,hemangnagi@example.net,+911861711169,VU760101N,"H.No. 16, Kunda Ganj, Berhampur 988526",1987-06-06,2023-04-28
+27,PA Sood,gandhijackson@example.org,4132602540,CT503946G,"92, Barad Path, Bahraich 413536",1945-07-11,2022-02-25
+28,NQ Tank,dhruv68@example.org,4396928092,PL112903A,"43/748, Purohit Ganj, Khandwa 015044",1947-11-02,2020-11-15
+29,ZK Viswanathan,nirjaedwin@example.com,00745597549,LE127399A,"690, Talwar Ganj, Katni-266734",1948-03-10,2021-02-28
+30,QE Kanda,eta48@example.net,4746014011,UC129727S,"H.No. 980, Shukla Street, Phusro-145275",1946-10-19,2023-05-19
+31,HH Choudhary,menonnitesh@example.com,3077870096,QW449520E,"25, Tank Ganj, Jalandhar-521524",1968-02-18,2024-01-20
+32,ZA Subramaniam,neha09@example.org,8141092038,WH201802D,"H.No. 47, Viswanathan Path, Pallavaram-484785",1971-03-15,2023-04-09
+33,TI Deep,gokhalebachittar@example.org,07887686230,ZC454927A,"30/654, Krishnan Path, Kadapa-476370",1979-05-24,2023-10-28
+34,FI Dua,jagvi69@example.net,08477539870,NO240512H,"15/435, Khosla Ganj, Maheshtala 184256",1945-09-19,2024-04-23
+35,CR Choudhary,oeshi13@example.com,+913724551174,GB438411R,"59, Sule Road, Anantapuram-617921",1995-10-21,2024-07-18
+36,MV Manne,advikakurian@example.net,06392742644,KD169480Z,"H.No. 817, Tak Circle, Thanjavur 306485",1958-11-05,2022-06-12
+37,DD Goda,anaylal@example.com,+912095792444,KK251897Y,"98/326, Srinivasan, Nandyal-096654",1998-03-01,2023-01-14
+38,BW Lad,shravyabaral@example.net,+911310732641,FW693732D,"H.No. 495, Sachdev Zila, Thanjavur 188005",1993-06-21,2023-06-05
+39,VE Karnik,ykeer@example.com,+911239545732,XI166194W,"691, Johal Marg, Mysore 243236",1973-07-04,2021-12-09
+40,YT Chatterjee,tamanna57@example.org,00787342645,MP524177E,"34, Murty, Karimnagar-609800",1947-07-10,2023-06-14
+41,OA Handa,omann@example.net,+914575876997,VK808627Z,"H.No. 443, Kibe Zila, Deoghar 536734",1979-06-19,2021-12-09
+42,MD Soni,qadim36@example.net,06076749444,QA712184Y,"47/31, Din Road, Shahjahanpur-007448",1945-04-10,2024-08-10
+43,CC Karpe,wsrinivasan@example.com,+910534535058,SR095479H,"H.No. 172, Goyal Marg, Kishanganj-564421",1987-01-28,2024-09-20

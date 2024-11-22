@@ -1,0 +1,51 @@
+StockSymbol,StockName,Sector,Exchange,Zerodha_StockID
+WZJY,Gera-Parikh,Consumer Goods,BSE,1
+ZZVR,Shroff-Khatri,Healthcare,NSE,2
+APSY,Arya-Kannan,Consumer Goods,NSE,3
+SQFQ,"Borra, Koshy and Chakraborty",Consumer Goods,NSE,4
+GTEC,"Gokhale, Saha and Sastry",Technology,NSE,5
+DJSI,Mitra PLC,Utilities,BSE,6
+JSRV,"Chokshi, Agrawal and Tak",Healthcare,NSE,7
+OVCW,"Bhardwaj, Babu and Dugal",Healthcare,NSE,8
+VWWN,"Ben, Srinivas and Desai",Consumer Goods,NSE,9
+LRGP,Saraf and Sons,Energy,NSE,10
+XOXY,"Baral, Jayaraman and Gala",Technology,BSE,11
+INLM,"Bains, Joshi and Bhavsar",Technology,BSE,12
+VMQM,Yogi Inc,Healthcare,NSE,13
+OEWV,Rattan Ltd,Healthcare,BSE,14
+BBKY,"Sood, Andra and Shenoy",Consumer Goods,NSE,15
+GFCD,"Ratta, Madan and Bains",Industrials,NSE,16
+DWVD,Ghosh-Sunder,Consumer Goods,NSE,17
+AWOT,Borah and Sons,Energy,NSE,18
+YOWI,Balasubramanian-Nair,Technology,NSE,19
+GMZH,Dalal-Rao,Technology,BSE,20
+JYYC,Rajan PLC,Finance,BSE,21
+FJJT,"Sampath, Muni and Goel",Healthcare,BSE,22
+YTMW,Loke-Viswanathan,Finance,BSE,23
+JDUK,Sagar Ltd,Consumer Goods,BSE,24
+FSQJ,"Chahal, Palla and Andra",Finance,BSE,25
+ZTSH,"Srivastava, Minhas and Ramakrishnan",Technology,BSE,26
+XDEY,"Sathe, Tandon and Parekh",Utilities,NSE,27
+YIFR,Tiwari-Tiwari,Energy,BSE,28
+NZZO,Bala LLC,Consumer Goods,NSE,29
+RNMI,Kota LLC,Utilities,NSE,30
+CIXF,Sankar-Sarkar,Energy,NSE,31
+OBCF,Manda-Date,Finance,NSE,32
+CUJG,Khurana and Sons,Technology,NSE,33
+JADP,"Tank, Jayaraman and Talwar",Healthcare,NSE,34
+TFAX,Bhakta-Sodhi,Industrials,BSE,35
+BEGY,Badami Ltd,Energy,BSE,36
+ULJT,"Chaudhuri, Kari and Brahmbhatt",Consumer Goods,BSE,37
+AJJI,"Khurana, Doshi and Samra",Energy,NSE,38
+PCYS,"Modi, Dhar and Kala",Finance,NSE,39
+SQRJ,Sharaf-Memon,Consumer Goods,BSE,40
+FNDC,Din-Kumer,Energy,NSE,41
+NLEO,Saha and Sons,Healthcare,BSE,42
+GCNV,Baral PLC,Industrials,NSE,43
+LJUK,Maharaj PLC,Energy,NSE,44
+OYUF,Kapadia-Lalla,Healthcare,BSE,45
+MDLJ,Badami PLC,Energy,NSE,46
+ZNCH,"Borde, Tailor and Luthra",Consumer Goods,NSE,47
+YEAW,"Kalla, Balasubramanian and Parikh",Industrials,NSE,48
+TMRK,Saini-Sarraf,Healthcare,NSE,49
+KUUY,"Prasad, Sangha and Lad",Industrials,NSE,50
